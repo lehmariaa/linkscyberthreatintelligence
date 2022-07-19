@@ -2,7 +2,7 @@ Olá!
 
 Este repo tem como objetivo listar alguns links legais para o estudo introdutório de CyberThreatIntelligence - CTI  
 # O que é Threat Intelligence?  
-Threat intelligence, em português inteligência de ameaças, é a informação coletada a fim de trazer insumos para organizações entenderem quais ameaças podem afetar seus negócios e, dessa forma, possuir inteligência para previnir, combater e identificar possíveis ameaças de maneira proativa.
+Threat intelligence, em português inteligência de ameaças, é a informação coletada a fim de trazer insumos para organizações entenderem quais ameaças podem afetar seus negócios e, dessa forma, possuir inteligência para prevenir, combater e identificar possíveis ameaças de maneira proativa.
 
 # O que é ameaça? 
 Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, motivação e recurso. Para que alguma ação se torne uma ameaça ela precisa possuir os três pilares.
