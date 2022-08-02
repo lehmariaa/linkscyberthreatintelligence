@@ -24,12 +24,32 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 * [CTI Fundamentals - The Four Sec](https://medium.com/@thefoursec/threat-intelligence-the-fundamentals-fc582bba7b7)   
 * [Pyramid of Pain](https://www.sans.org/tools/the-pyramid-of-pain/)   
 * [CyberKillChain - e outras coisas](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)   
+* [Threat Intelligence Lifecycle](https://flashpoint.io/blog/threat-intelligence-lifecycle/)
+* [Weekly Threat Briefing](https://cyware.com/weekly-threat-briefing)
 
+**Threat Feed**
+* [OpenCTI](https://www.opencti.net.br)
+* [Pulsedive](https://pulsedive.com/)
+* [OpenCTI](https://www.opencti.net.br)
+* [OTX - Open Threat Exchange](https://otx.alienvault.com/)
+* [Shodan](https://www.shodan.io/)
+
+**Ransomware**
+* [ID Ransomware](https://id-ransomware.malwarehunterteam.com)
+* [No more Ransom - Crypto Sheriff](https://www.nomoreransom.org/crypto-sheriff.php)
+
+**Podcast**
+* [ShadowTalk - Threat Intelligence Podcast](https://resources.digitalshadows.com/threat-intelligence-podcast-shadowtalk)
+* [Checkpoint CPradio](https://cpradio.castos.com/)
+* [The World of Intelligence](https://podcast.janes.com/public/68/The-World-of-Intelligence-50487d09)
+* [Phish Fryday](https://podcastaddict.com/podcast/phish-fryday/3712893)
+* [The Cyber5](https://www.nisos.com/podcasts/cyber5/)
+* [FortiGuard Labs Threat Intelligence](https://soundcloud.com/fortiguardlabs)
+* [Intelligence Fusion: Threat Intelligence](https://podcasts.apple.com/us/podcast/intelligence-fusion-threat-intelligence-podcasts/id1508134280)
 
 **Cursos**   
 * [Mitre ATT&CK](https://attack.mitre.org/resources/training/cti/)   
 * [Foundation of Operationalizing MITRE ATT&CK](https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck) 
-
 
 **Vídeos**   
 * [Webinar SANS - The Cycle of Cyber Threat Intelligence](https://www.youtube.com/watch?v=J7e74QLVxCk)  
