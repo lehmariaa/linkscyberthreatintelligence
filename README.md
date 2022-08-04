@@ -23,13 +23,27 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 * [CTI Study Plan - Andy Piazza](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb)   
 * [CTI Fundamentals - The Four Sec](https://medium.com/@thefoursec/threat-intelligence-the-fundamentals-fc582bba7b7)   
 * [Pyramid of Pain](https://www.sans.org/tools/the-pyramid-of-pain/)   
-* [CyberKillChain - e outras coisas](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)   
+* [CyberKillChain - e outras coisas](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)  
+* [Using the Diamond Model for CTI](https://warnerchad.medium.com/diamond-model-for-cti-5aba5ba5585) 
 
 
 **Cursos**   
 * [Mitre ATT&CK](https://attack.mitre.org/resources/training/cti/)   
 * [Foundation of Operationalizing MITRE ATT&CK](https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck) 
+* [threatintel.academy](https://www.threatintel.academy/)
 
 
 **Vídeos**   
 * [Webinar SANS - The Cycle of Cyber Threat Intelligence](https://www.youtube.com/watch?v=J7e74QLVxCk)  
+
+
+**Ferramentas**
+* [msticpy](https://github.com/microsoft/msticpy)
+* [MISP](https://github.com/MISP/MISP)
+* [deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+
+**TA (Threat Actors)**
+* [APTNotes](https://github.com/kbandla/APTnotes)
+
+**Feeds**
+* [threat-intel](https://threat-intel.xyz/)
