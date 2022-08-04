@@ -30,12 +30,12 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 **Cursos**   
 * [Mitre ATT&CK](https://attack.mitre.org/resources/training/cti/)   
 * [Foundation of Operationalizing MITRE ATT&CK](https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck) 
-* [threatintel.academy](https://www.threatintel.academy/)
 
 
 **Vídeos**   
 * [Webinar SANS - The Cycle of Cyber Threat Intelligence](https://www.youtube.com/watch?v=J7e74QLVxCk)  
 
+# Pra praticar!
 
 **Ferramentas**
 * [msticpy](https://github.com/microsoft/msticpy)
