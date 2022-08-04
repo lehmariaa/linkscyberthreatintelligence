@@ -40,7 +40,6 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 **Ferramentas**
 * [msticpy](https://github.com/microsoft/msticpy)
 * [MISP](https://github.com/MISP/MISP)
-* [deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
 
 **TA (Threat Actors)**
 * [APTNotes](https://github.com/kbandla/APTnotes)
