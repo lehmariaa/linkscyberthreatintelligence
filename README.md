@@ -26,6 +26,8 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 * [CyberKillChain - e outras coisas](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)   
 * [Threat Intelligence Lifecycle](https://flashpoint.io/blog/threat-intelligence-lifecycle/)
 * [Weekly Threat Briefing](https://cyware.com/weekly-threat-briefing)
+* [CyberKillChain - e outras coisas](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)  
+* [Using the Diamond Model for CTI](https://warnerchad.medium.com/diamond-model-for-cti-5aba5ba5585) 
 
 **Threat Feed**
 * [OpenCTI](https://www.opencti.net.br)
@@ -53,3 +55,15 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 
 **Vídeos**   
 * [Webinar SANS - The Cycle of Cyber Threat Intelligence](https://www.youtube.com/watch?v=J7e74QLVxCk)  
+
+# Pra praticar!
+
+**Ferramentas**
+* [msticpy](https://github.com/microsoft/msticpy)
+* [MISP](https://github.com/MISP/MISP)
+
+**TA (Threat Actors)**
+* [APTNotes](https://github.com/kbandla/APTnotes)
+
+**Feeds**
+* [threat-intel](https://threat-intel.xyz/)
