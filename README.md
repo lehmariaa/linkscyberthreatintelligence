@@ -32,7 +32,6 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 **Threat Feed**
 * [OpenCTI](https://www.opencti.net.br)
 * [Pulsedive](https://pulsedive.com/)
-* [OpenCTI](https://www.opencti.net.br)
 * [OTX - Open Threat Exchange](https://otx.alienvault.com/)
 * [Shodan](https://www.shodan.io/)
 
