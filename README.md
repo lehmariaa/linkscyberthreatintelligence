@@ -11,15 +11,16 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 
 # Conteúdos
 
-**Livros**    
+**Livros**
 * [Intelligence Driven Incident Response](https://amzn.to/3OhRx7m)  
 * [Effective Threat Intelligence](https://amzn.to/3B4KBb3)  
 * [The Threat Intelligence Handbook](https://amzn.to/3PD1RrL)  
 * [Contagem regressiva até zero day](https://amzn.to/3oa5R7B)   
 * [Guerra Cibernética](https://amzn.to/3aMnvev) 
 
-**Links**    
-* [CTI Self Study Plan - Katie Nickels](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) 
+**Links**
+* [CTI Self Study Plan Part 1- Katie Nickels](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) 
+* [CTI Self Study Plan Part 2- Katie Nickels](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-2-d04b7a529d36) 
 * [CTI Study Plan - Andy Piazza](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb)   
 * [CTI Fundamentals - The Four Sec](https://medium.com/@thefoursec/threat-intelligence-the-fundamentals-fc582bba7b7)   
 * [Pyramid of Pain](https://www.sans.org/tools/the-pyramid-of-pain/)   
@@ -39,6 +40,7 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 * [No more Ransom - Crypto Sheriff](https://www.nomoreransom.org/crypto-sheriff.php)
 
 **Podcast**
+* [Beyond Intelligence with Katie Nickels](https://hackervalley.com/hacker-valley-blue/beyond-intelligence-with-katie-nickels/)
 * [ShadowTalk - Threat Intelligence Podcast](https://resources.digitalshadows.com/threat-intelligence-podcast-shadowtalk)
 * [Checkpoint CPradio](https://cpradio.castos.com/)
 * [The World of Intelligence](https://podcast.janes.com/public/68/The-World-of-Intelligence-50487d09)
@@ -47,11 +49,12 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 * [FortiGuard Labs Threat Intelligence](https://soundcloud.com/fortiguardlabs)
 * [Intelligence Fusion: Threat Intelligence](https://podcasts.apple.com/us/podcast/intelligence-fusion-threat-intelligence-podcasts/id1508134280)
 
-**Cursos**   
+**Cursos**
 * [Mitre ATT&CK](https://attack.mitre.org/resources/training/cti/)   
 * [Foundation of Operationalizing MITRE ATT&CK](https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck) 
 
-**Vídeos**   
+**Vídeos**
+* [CMD & Controle (Português) - Introdução ao ATT&CK](https://youtube.com/playlist?list=PL0ErodOOTrZVpq2s4BzsKZUBjslbd9ZnC)  
 * [Webinar SANS - The Cycle of Cyber Threat Intelligence](https://www.youtube.com/watch?v=J7e74QLVxCk)  
 
 # Pra praticar!
