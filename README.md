@@ -7,7 +7,7 @@ Threat intelligence, em português inteligência de ameaças, é a informação 
 # O que é ameaça? 
 Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, motivação e recurso. Para que alguma ação se torne uma ameaça ela precisa possuir os três pilares.
 
-
+ <img src="threat intelligence.jfif" width="500" height="300">
 
 # Conteúdos
 
