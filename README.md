@@ -1,13 +1,12 @@
-Olá!
+# Repositório de Recursos para Introdução à Inteligência de Ameaças Cibernéticas (CTI)
 
-Este repo tem como objetivo listar alguns links legais para o estudo introdutório de CyberThreatIntelligence - CTI  
 # O que é Threat Intelligence?  
 Threat intelligence, em português inteligência de ameaças, é a informação coletada a fim de trazer insumos para organizações entenderem quais ameaças podem afetar seus negócios e, dessa forma, possuir inteligência para prevenir, combater e identificar possíveis ameaças de maneira proativa.
 
 # O que é ameaça? 
 Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, motivação e recurso. Para que alguma ação se torne uma ameaça ela precisa possuir os três pilares.
 
-
+ <img src="threat intelligence.jfif">
 
 # Conteúdos
 
@@ -68,3 +67,10 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 
 **Feeds**
 * [threat-intel](https://threat-intel.xyz/)
+
+**Caça de Commando e Controle(C2)**
+
+* [Detectando a estrutura Sliver C2 com Wazuh](https://wazuh.com/blog/detecting-sliver-c2-framework-with-wazuh/)
+* [Detectando a estrutura Sliver C2 com Wazuh](https://wazuh.com/blog/detecting-sliver-c2-framework-with-wazuh/)
+* [Captura C2 com assinaturas regex, certificados TLS](https://twitter.com/embee_research/status/1729031520072212521)
+* [Repositório para encontrar vários artigos para caça de C2](https://github.com/himori123/Awesome-hunting-C2s)
