@@ -68,3 +68,10 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 
 **Feeds**
 * [threat-intel](https://threat-intel.xyz/)
+
+**Caça de Commando e Controle(C2)**
+
+* [Detectando a estrutura Sliver C2 com Wazuh](https://wazuh.com/blog/detecting-sliver-c2-framework-with-wazuh/)
+* [Detectando a estrutura Sliver C2 com Wazuh](https://wazuh.com/blog/detecting-sliver-c2-framework-with-wazuh/)
+* [Captura C2 com assinaturas regex, certificados TLS](https://twitter.com/embee_research/status/1729031520072212521)
+* [Repositório para encontrar vários artigos para caça de C2](https://github.com/himori123/Awesome-hunting-C2s)
