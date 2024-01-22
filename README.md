@@ -1,5 +1,4 @@
-
-“Repositório de Recursos para Introdução à Inteligência de Ameaças Cibernéticas (CTI)”
+# Repositório de Recursos para Introdução à Inteligência de Ameaças Cibernéticas (CTI)
 
 # O que é Threat Intelligence?  
 Threat intelligence, em português inteligência de ameaças, é a informação coletada a fim de trazer insumos para organizações entenderem quais ameaças podem afetar seus negócios e, dessa forma, possuir inteligência para prevenir, combater e identificar possíveis ameaças de maneira proativa.
